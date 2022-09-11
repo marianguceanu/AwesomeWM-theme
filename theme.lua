@@ -1,7 +1,6 @@
 --[[
 
-     Steamburn Awesome WM theme 3.0
-     github.com/lcpz
+     based off the steamburn theme
 
 --]]
 
